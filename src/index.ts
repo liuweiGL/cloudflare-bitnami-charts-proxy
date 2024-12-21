@@ -10,8 +10,6 @@
  *
  * Learn more at https://developers.cloudflare.com/workers/
  */
-import YAML from 'yaml'
-
 const BITNAMI_REPOSITORY_URL = 'https://charts.bitnami.com';
 const DOCKER_REGISTRY = 'registry-1.docker.io';
 const MIRRIR_REGISTRY = 'docker.eastcoal.tech';
